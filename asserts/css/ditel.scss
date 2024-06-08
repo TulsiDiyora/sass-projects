@@ -1,0 +1,35 @@
+.ditel-content{
+    span{
+        font-size: 17px;
+        font-weight: 400;
+        font-family: var(--font);
+    }
+    h2{
+        padding-top: 20px;
+        font-size: 92px;
+        font-weight: 500;
+        line-height: 1.2;
+    }
+    .ditel-icon{
+        display: flex;
+        column-gap: 30px;
+        padding-top: 20%;
+    }
+}
+.ditel-content1{
+    p{
+        padding-top: 100% ;
+        font-size: 17px;
+        color: var(--black);
+        font-weight: 400;
+        font-family: var(--font);   
+    }
+    .ditel-btn{
+        display: flex;
+        align-items: center;
+        margin-top: 10px    ;
+    }
+    .ditel-btn svg{
+        margin-right: 15px ;
+    }
+}

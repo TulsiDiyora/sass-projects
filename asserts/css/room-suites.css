@@ -1,0 +1,70 @@
+.a-box .title {
+  text-align: center;
+}
+.a-box .title h4 {
+  margin-bottom: 8px;
+  font-family: var(--font);
+  font-weight: 400;
+}
+.a-box .title h2 {
+  font-size: 64px;
+  font-weight: 600;
+}
+.a-box .room-img {
+  margin-top: 50px;
+  display: flex;
+}
+.a-box .room-img img {
+  width: 903px;
+  height: 588px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.swiper-container {
+  position: relative;
+  width: 100%;
+  margin-top: 15%;
+  height: 300px;
+  margin-bottom: 8%;
+}
+
+.swiper-container > .swiper-slide__content {
+  position: absolute;
+  top: 0;
+}
+
+.swiper-slide {
+  height: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 200ms linear;
+  transform: scale(0.8);
+}
+
+.swiper-button-next,
+.swiper-button-prev {
+  padding: 8px;
+  width: 80px;
+  height: 80px;
+  margin-top: 0;
+  background-color: rgba(0, 0, 0, 0.4);
+  border-radius: 50%;
+}
+
+.swiper-button-next::after,
+.swiper-button-prev::after {
+  color: #fff;
+  font-size: 12px;
+}
+
+.swiper-button-next {
+  transform: translate(50%, -50%);
+  right: 25%;
+}
+
+.swiper-button-prev {
+  transform: translate(-50%, -50%);
+  left: 25%;
+}/*# sourceMappingURL=room-suites.css.map */

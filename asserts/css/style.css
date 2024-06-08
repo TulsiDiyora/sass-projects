@@ -1,0 +1,1219 @@
+/* jost-100 - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 100;
+  src: url("../fonts//jost-v15-latin-100.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* jost-100italic - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "Jost";
+  font-style: italic;
+  font-weight: 100;
+  src: url("../fonts//jost-v15-latin-100italic.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* jost-200 - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 200;
+  src: url("../fonts//jost-v15-latin-200.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* jost-200italic - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "Jost";
+  font-style: italic;
+  font-weight: 200;
+  src: url("../fonts//jost-v15-latin-200italic.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* jost-300 - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 300;
+  src: url("../fonts//jost-v15-latin-300.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* jost-300italic - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "Jost--------------------------";
+  font-style: italic;
+  font-weight: 300;
+  src: url("../fonts//jost-v15-latin-300italic.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* jost-regular - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts//jost-v15-latin-regular.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* jost-italic - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "Jost";
+  font-style: italic;
+  font-weight: 400;
+  src: url("../fonts//jost-v15-latin-italic.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* jost-500 - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 500;
+  src: url("../fonts//jost-v15-latin-500.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* jost-500italic - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "Jost";
+  font-style: italic;
+  font-weight: 500;
+  src: url("../fonts//jost-v15-latin-500italic.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* jost-600 - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 600;
+  src: url("../fonts//jost-v15-latin-600.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* jost-600italic - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "Jost";
+  font-style: italic;
+  font-weight: 600;
+  src: url("../fonts//jost-v15-latin-600italic.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* jost-700 - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 700;
+  src: url("../fonts//jost-v15-latin-700.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* jost-700italic - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "Jost";
+  font-style: italic;
+  font-weight: 700;
+  src: url("../fonts//jost-v15-latin-700italic.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* jost-800 - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 800;
+  src: url("../fonts//jost-v15-latin-800.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* jost-800italic - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "Jost";
+  font-style: italic;
+  font-weight: 800;
+  src: url("../fonts//jost-v15-latin-800italic.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* jost-900 - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 900;
+  src: url("../fonts//jost-v15-latin-900.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* jost-900italic - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "Jost";
+  font-style: italic;
+  font-weight: 900;
+  src: url("../fonts//jost-v15-latin-900italic.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* cormorant-garamond-300 - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "Cormorant Garamond";
+  font-style: normal;
+  font-weight: 300;
+  src: url("../fonts//cormorant-garamond-v16-latin-300.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* cormorant-garamond-300italic - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "Cormorant Garamond";
+  font-style: italic;
+  font-weight: 300;
+  src: url("../fonts//cormorant-garamond-v16-latin-300italic.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* cormorant-garamond-regular - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "Cormorant Garamond";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts//cormorant-garamond-v16-latin-regular.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* cormorant-garamond-italic - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "Cormorant Garamond";
+  font-style: italic;
+  font-weight: 400;
+  src: url("../fonts//cormorant-garamond-v16-latin-italic.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* cormorant-garamond-500 - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "Cormorant Garamond";
+  font-style: normal;
+  font-weight: 500;
+  src: url("../fonts//cormorant-garamond-v16-latin-500.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* cormorant-garamond-500italic - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "Cormorant Garamond";
+  font-style: italic;
+  font-weight: 500;
+  src: url("../fonts//cormorant-garamond-v16-latin-500italic.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* cormorant-garamond-600 - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "Cormorant Garamond";
+  font-style: normal;
+  font-weight: 600;
+  src: url("../fonts//cormorant-garamond-v16-latin-600.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* cormorant-garamond-600italic - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "Cormorant Garamond";
+  font-style: italic;
+  font-weight: 600;
+  src: url("../fonts//cormorant-garamond-v16-latin-600italic.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* cormorant-garamond-700 - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "Cormorant Garamond";
+  font-style: normal;
+  font-weight: 700;
+  src: url("../fonts//cormorant-garamond-v16-latin-700.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* cormorant-garamond-700italic - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "Cormorant Garamond";
+  font-style: italic;
+  font-weight: 700;
+  src: url("../fonts//cormorant-garamond-v16-latin-700italic.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --primary-color: #F9DABA;
+  --primary-color-rgb: 249, 218, 186;
+  --secondary-color: #122223;
+  --secondary-color-rgb: 18, 34, 35;
+  --header:#1D3334;
+  --header-rgb:29, 51, 52;
+  --white-color: #ffffff;
+  --white-color-rgb:255, 255, 255;
+  --black-color: #000000;
+  --black-color-rgb: 0, 0, 0;
+  --box-color: #F8F5F0;
+  --fw: 400;
+  --fs: 16px;
+  --lh: 1.5;
+  --gutter-width: 15px;
+  --font:jost;
+  --discription-font:Cormorant Garamond;
+}
+
+body {
+  font-family: var(--discription-font);
+  font-size: var(--fs);
+  font-weight: var(--fw);
+  line-height: var(--lh);
+  color: var(--black-color);
+}
+
+a {
+  text-decoration: none;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
+
+ul, ol {
+  padding-left: 0;
+  list-style: none;
+}
+
+.container {
+  width: 1320px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: var(--gutter-width);
+  padding-right: var(--gutter-width);
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: calc(-1 * var(--gutter-width));
+  margin-right: calc(-1 * var(--gutter-width));
+}
+
+.w-1 {
+  width: 8.3333%;
+}
+
+.w-2 {
+  width: 16.6666%;
+}
+
+.w-3 {
+  width: 25%;
+}
+
+.w-4 {
+  width: 33.3333%;
+}
+
+.w-5 {
+  width: 41.6666%;
+}
+
+.w-6 {
+  width: 50%;
+}
+
+.w-7 {
+  width: 58.3333%;
+}
+
+.w-8 {
+  width: 66.6666%;
+}
+
+.w-9 {
+  width: 75%;
+}
+
+.w-10 {
+  width: 83.3333%;
+}
+
+.w-11 {
+  width: 91.6666%;
+}
+
+.w-12 {
+  width: 100%;
+}
+
+.w-1, .w-2, .w-3, .w-4, .w-5, .w-6, .w-7, .w-8, .w-9, .w-10, .w-11, .w-12 {
+  padding-left: var(--gutter-width);
+  padding-right: var(--gutter-width);
+}
+
+.justify-content-start {
+  justify-content: flex-start;
+}
+
+.justify-content-center {
+  justify-content: center;
+}
+
+.justify-content-end {
+  justify-content: flex-end;
+}
+
+.justify-content-between {
+  justify-content: space-between;
+}
+
+.justify-content-aroundt {
+  justify-content: space-around;
+}
+
+.justify-content-evenly {
+  justify-content: space-evenly;
+}
+
+.align-content-start {
+  align-content: flex-start;
+}
+
+.align-content-center {
+  align-content: center;
+}
+
+.align-content-end {
+  align-content: flex-end;
+}
+
+.align-content-between {
+  align-content: space-between;
+}
+
+.align-content-around {
+  align-content: space-around;
+}
+
+.align-content-evevly {
+  align-content: space-evenly;
+}
+
+.align-item-start {
+  align-items: flex-start;
+}
+
+.align-item-end {
+  align-items: flex-end;
+}
+
+.align-item-center {
+  align-items: center;
+}
+
+.align-item-stretch {
+  align-items: stretch;
+}
+
+.align-item-baseline {
+  align-items: space-between;
+}
+
+.d-flex {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.pt-100 {
+  padding-top: 100px;
+}
+
+.pb-100 {
+  padding-bottom: 100px;
+}
+
+.py-100 {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+header {
+  padding: 30px 60px;
+  position: absolute;
+  width: 100%;
+  z-index: 1;
+  cursor: pointer;
+}
+
+.header {
+  /* position: fixed; */
+  transition: 0.2s linear;
+}
+
+.header.fixed-header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 999;
+  background-color: var(--header);
+  transition: 0.2s linear;
+}
+
+.logo-img {
+  width: 190px;
+  height: 42px;
+}
+
+.search-from {
+  background: rgba(18, 34, 35, 0.5);
+  -webkit-backdrop-filter: blur(5px);
+  backdrop-filter: blur(5px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 30px;
+  padding: 15px 30px;
+  display: flex;
+  margin-left: 5%;
+}
+
+.search-from a {
+  color: var(--white-color);
+  font-size: 17px;
+  font-family: var(--font);
+}
+
+.search-from i {
+  padding-left: 10px;
+}
+
+.search-border {
+  border-left: 2px solid rgba(255, 255, 255, 0.2);
+  margin-left: 25px;
+}
+
+.rooms {
+  position: relative;
+}
+
+.rooms a {
+  padding-left: 25px;
+  font-size: 17px;
+}
+
+.rooms i {
+  padding-left: 35px;
+}
+
+.go-btn {
+  margin-left: 30px;
+}
+
+.go-btn a {
+  padding: 10px 10px;
+  background-color: var(--primary-color);
+  border-radius: 50%;
+  color: var(--black-color);
+  transition: all 0.4s linear;
+}
+
+.go-btn a:hover {
+  background-color: var(--black-color);
+  color: var(--white-color);
+}
+
+.contect {
+  margin-left: auto;
+}
+
+.contect i {
+  padding-top: 4px;
+  padding-right: 10px;
+  color: var(--white-color);
+}
+
+.contect span, .en-content {
+  font-family: var(--font);
+  color: var(--white-color);
+  font-weight: 600;
+}
+
+.en-content {
+  padding-left: 20px;
+}
+
+.en-content i {
+  padding-left: 8px;
+}
+
+.book-stay-btn {
+  padding-left: 20px;
+}
+
+.book-stay-btn a {
+  background: rgba(18, 34, 35, 0.5);
+  -webkit-backdrop-filter: blur(5px);
+  backdrop-filter: blur(5px);
+  border-radius: 30px;
+  padding: 15px 20px;
+  color: var(--white-color);
+  font-family: var(--font);
+}
+
+.book-stay-btn a:hover {
+  background-color: var(--black-color);
+  transition: all 0.4s linear;
+}
+
+.menu a {
+  color: var(--white-color);
+  padding: 0px 30px;
+  font-size: 20px;
+}
+
+.room-dropdwon {
+  position: absolute;
+  background-color: var(--primary-color);
+  min-width: 400px;
+  box-shadow: 0px 0px 20px 10px rgba(var(--white-color-rgb), 0.1);
+  border-radius: 30px;
+  top: 55px;
+}
+.room-dropdwon a {
+  color: var(--black-color);
+  display: block;
+  padding: 30px 50px;
+}
+.room-dropdwon .room-content, .room-dropdwon .guests-content {
+  display: flex;
+  position: relative;
+}
+.room-dropdwon .room-icon, .room-dropdwon .guests-icon {
+  font-size: 14px;
+  display: flex;
+  align-items: center;
+  margin-left: auto;
+}
+
+.room-dropdwon {
+  display: none;
+}
+
+.note {
+  font-size: calc(0.5vw + 0.75rem);
+  text-align: center;
+  opacity: 0.5;
+}
+
+.button {
+  display: inline-block;
+  padding: 0.5em 1em;
+  color: #fff;
+  font-weight: bold;
+  font-size: 0.6875em;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 0.0625em;
+  background-color: #37474F;
+  border-radius: 1.5em;
+  cursor: pointer;
+}
+
+.calendar-wrap {
+  width: 100%;
+  padding: 0.75em;
+  margin: auto;
+  font-size: 4vw;
+  background-color: #fff;
+  border-radius: 1.5em;
+  user-select: none;
+  box-shadow: 0 0.0625em 0.25em rgba(0, 20, 50, 0.2), 0 0.5em 0.5em 0.125em rgba(0, 20, 50, 0.1);
+}
+
+@media (min-width: 500px) {
+  .calendar-wrap {
+    width: 450px;
+    font-size: 1.25rem;
+  }
+}
+.month-year {
+  margin-bottom: 0.75em;
+  font-weight: normal;
+  font-size: 1.25em;
+  text-align: center;
+}
+
+.calendar {
+  table-layout: fixed;
+  width: 100%;
+  margin-bottom: 0.75em;
+  overflow: hidden;
+  border-collapse: collapse;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.day-title {
+  width: 4em;
+  height: 4em;
+  vertical-align: top;
+  font-weight: bold;
+  font-size: 0.75em;
+  text-transform: uppercase;
+  letter-spacing: 0.0625em;
+  box-shadow: inset 0 -0.875em #fff, inset 0 -1em rgba(0, 20, 50, 0.1);
+}
+
+.day {
+  position: relative;
+  height: 3em;
+}
+
+.day:focus {
+  outline: none;
+}
+
+.day:focus .day-number::after {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  top: 50%;
+  left: 50%;
+  width: 80%;
+  height: 80%;
+  transform: translate(-50%, -50%);
+  border: 0.25em solid #0288d1;
+  border-radius: 50%;
+}
+
+.day.active-a:focus .day-number::after,
+.day.active-b:focus .day-number::after {
+  width: 100%;
+  height: 100%;
+}
+
+.day.today:focus .day-number::after {
+  width: 102%;
+  height: 102%;
+}
+
+.day:hover span.day-number {
+  color: #0288d1;
+}
+
+.day:first-child,
+.day:last-child {
+  color: rgba(0, 0, 0, 0.5);
+}
+
+.day.range {
+  color: #0288d1;
+  background-color: #e1f5fe;
+}
+
+.day.range.active-a,
+.day:not(.range) + .day.range.active-b {
+  background-color: transparent;
+  box-shadow: inset -1.5em 0 #e1f5fe;
+}
+
+.day.range.active-b,
+.day.range + .day.range.active-a {
+  background-color: transparent;
+  box-shadow: inset 1.5em 0 #e1f5fe;
+}
+
+.day.range.active-a:first-child,
+.day.range.active-b:first-child {
+  box-shadow: none;
+}
+
+.day.range.active-a:first-child + .day.range,
+.day.range.active-b:first-child + .day.range {
+  box-shadow: -1.5em 0 #e1f5fe;
+}
+
+.day.range.active-a:first-child + .day:not(.range),
+.day.range.active-b:first-child + .day:not(.range) {
+  box-shadow: -4.5em 0 #e1f5fe;
+}
+
+.day.range.active-a:first-child + .day.range.active-b {
+  box-shadow: -1.5em 0 #e1f5fe, inset 1.5em 0 #e1f5fe;
+}
+
+.day-number {
+  position: relative;
+  z-index: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 3em;
+  border-radius: 50%;
+}
+
+.day.active-a span.day-number,
+.day.active-b span.day-number {
+  color: #fff;
+  background-color: #03A9F4;
+}
+
+.day.prev-mon .day-number,
+.day.next-mon .day-number {
+  color: rgba(0, 0, 0, 0.3);
+}
+
+.day.prev-mon[class*=active] .day-number,
+.day.next-mon[class*=active] .day-number {
+  color: rgba(255, 255, 255, 0.5);
+  background-color: #81D4FA;
+}
+
+.day.today span.day-number {
+  color: #fff;
+  border: 0.25em solid transparent;
+  box-shadow: inset 0 0 0 2em #37474F;
+}
+
+.calendar-wrap .reset {
+  display: block;
+}
+
+.banner-bg {
+  background-image: url("../images/bg-img/1.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top: 260px;
+  padding-bottom: 240px;
+  position: relative;
+}
+.banner-bg .banner-content {
+  text-align: center;
+}
+.banner-bg .banner-content h4 {
+  color: var(--white-color);
+  font-family: var(--font);
+  font-weight: 400;
+  font-size: 18px;
+}
+.banner-bg .banner-content h1 {
+  color: var(--white-color);
+  font-weight: 500;
+  font-size: 92px;
+  letter-spacing: 1.2px;
+  padding-bottom: 10px;
+}
+.banner-bg span {
+  color: var(--white-color);
+  font-size: 17px;
+  font-family: var(--font);
+  display: block;
+  margin-bottom: 40px;
+}
+.banner-bg .book-mark-btn {
+  padding: 16px 45px;
+  background-color: var(--primary-color);
+  display: inline-block;
+  font-size: 17px;
+  font-family: var(--font);
+  color: var(--black-color);
+  border-radius: 30px;
+  font-weight: 500;
+  transition: all 0.5s linear;
+}
+.banner-bg .book-mark-btn:hover {
+  background-color: var(--black-color);
+  color: var(--white-color);
+}
+
+.ditel-content span {
+  font-size: 17px;
+  font-weight: 400;
+  font-family: var(--font);
+}
+.ditel-content h2 {
+  padding-top: 20px;
+  font-size: 92px;
+  font-weight: 500;
+  line-height: 1.2;
+}
+.ditel-content .ditel-icon {
+  display: flex;
+  column-gap: 30px;
+  padding-top: 20%;
+}
+
+.ditel-content1 p {
+  padding-top: 100%;
+  font-size: 17px;
+  color: var(--black);
+  font-weight: 400;
+  font-family: var(--font);
+}
+.ditel-content1 .ditel-btn {
+  display: flex;
+  align-items: center;
+  margin-top: 10px;
+}
+.ditel-content1 .ditel-btn svg {
+  margin-right: 15px;
+}
+
+.reserve-bg {
+  background-image: url(../images/reserve-img/1.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top: 260px;
+  padding-bottom: 240px;
+  text-align: center;
+}
+.reserve-bg .reserve-content {
+  color: var(--white-color);
+}
+.reserve-bg h4 {
+  font-family: var(--font);
+  font-weight: 500;
+  padding-bottom: 10px;
+  text-transform: uppercase;
+}
+.reserve-bg h2 {
+  color: var(--white-color);
+  font-weight: 500;
+  font-size: 92px;
+  letter-spacing: 1.2px;
+  padding-bottom: 10px;
+  line-height: 1.1;
+}
+.reserve-bg .play-btn {
+  width: 80px;
+  height: 80px;
+  line-height: 83px;
+  background: rgba(18, 34, 35, 0.5);
+  -webkit-backdrop-filter: blur(5px);
+  backdrop-filter: blur(5px);
+  display: inline-block;
+  font-size: 20px;
+  font-family: var(--font);
+  color: var(--black-color);
+  border-radius: 50%;
+  font-weight: 500;
+  margin-top: 20px;
+  box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+  transition: all 0.5s linear;
+}
+.reserve-bg .play-btn:hover {
+  background-color: var(--black-color);
+  color: var(--white-color);
+}
+.reserve-bg p {
+  text-transform: uppercase;
+  font-family: var(--font);
+  margin-top: 20px;
+}
+
+.a-box .title {
+  text-align: center;
+}
+.a-box .title h4 {
+  margin-bottom: 8px;
+  font-family: var(--font);
+  font-weight: 400;
+}
+.a-box .title h2 {
+  font-size: 64px;
+  font-weight: 600;
+}
+.a-box .room-img {
+  margin-top: 50px;
+  display: flex;
+}
+.a-box .room-img img {
+  width: 903px;
+  height: 588px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.swiper-container {
+  position: relative;
+  width: 100%;
+  margin-top: 15%;
+  height: 300px;
+  margin-bottom: 8%;
+}
+
+.swiper-container > .swiper-slide__content {
+  position: absolute;
+  top: 0;
+}
+
+.swiper-slide {
+  height: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 200ms linear;
+  transform: scale(0.8);
+}
+
+.swiper-button-next,
+.swiper-button-prev {
+  padding: 8px;
+  width: 80px;
+  height: 80px;
+  margin-top: 0;
+  background-color: rgba(0, 0, 0, 0.4);
+  border-radius: 50%;
+}
+
+.swiper-button-next::after,
+.swiper-button-prev::after {
+  color: #fff;
+  font-size: 12px;
+}
+
+.swiper-button-next {
+  transform: translate(50%, -50%);
+  right: 25%;
+}
+
+.swiper-button-prev {
+  transform: translate(-50%, -50%);
+  left: 25%;
+}
+
+.a-box1 .room-box {
+  position: absolute;
+  background-color: antiquewhite;
+}
+
+.title {
+  text-align: center;
+}
+.title span {
+  margin-bottom: 8px;
+  font-family: var(--font);
+  font-weight: 400;
+}
+.title h2 {
+  font-size: 64px;
+  font-weight: 600;
+}
+
+.hotel-f {
+  margin-top: 80px;
+}
+.hotel-f .hotel {
+  padding: 0px 30px;
+  cursor: pointer;
+}
+.hotel-f .hotel img {
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  margin: 0 auto;
+  margin-bottom: 10px;
+}
+.hotel-f .hotel span {
+  font-size: 24px;
+  text-align: center;
+}
+
+.comment-bg {
+  background-color: var(--box-color);
+}
+.comment-bg .t-box {
+  background-color: var(--white-color);
+  padding: 40px 60px;
+  margin-top: 80px;
+}
+.comment-bg .t-box svg {
+  display: block;
+  margin-bottom: 30px;
+}
+.comment-bg .t-box span {
+  font-size: 17px;
+  font-family: var(--font);
+}
+.comment-bg .t-border {
+  border-bottom: 1px solid lightgray;
+  margin: 30px 0px;
+}
+.comment-bg .t-profile {
+  align-items: center;
+}
+.comment-bg .t-profile img {
+  margin-right: 15px;
+}
+.comment-bg .t-profile h5 {
+  font-size: 17px;
+  font-family: var(--font);
+  font-weight: 500;
+}
+.comment-bg .t-profile span {
+  font-size: 15px;
+}
+
+.pic-bg {
+  background-color: #122223;
+}
+.pic-bg .pic-img :not(:last-child) {
+  margin-right: 54px;
+}
+.pic-bg .title {
+  color: var(--white-color);
+}
+.pic-bg .title h2 {
+  line-height: 1.3;
+  margin-top: 10px;
+  margin-bottom: 50px;
+}
+.pic-bg .title .find-more-btn {
+  padding: 16px 45px;
+  background-color: var(--primary-color);
+  display: inline-block;
+  font-size: 17px;
+  font-family: var(--font);
+  color: var(--black-color);
+  border-radius: 30px;
+  font-weight: 500;
+  transition: all 0.5s linear;
+}
+.pic-bg .title .find-more-btn:hover {
+  background-color: var(--white-color);
+  color: var(--black-color);
+}
+
+.offers {
+  padding-top: 200px;
+}
+.offers .heading {
+  color: var(--black);
+}
+.offers .heading span {
+  font-family: var(--font-jost);
+}
+.offers .heading h1 {
+  font-size: 64px;
+  font-family: var(--font-cm);
+}
+.offers .book-now {
+  margin-top: 50px;
+}
+.offers .book-now span {
+  margin-left: 10px;
+  margin-top: 3px;
+}
+.offers .offers-item {
+  margin-left: -15px;
+  margin-right: -15px;
+}
+.offers .offers-img img {
+  width: 380px;
+  height: 487px;
+}
+.offers .offers-img-t {
+  margin-left: 50px;
+}
+.offers .offers-img-s {
+  margin-left: 20px;
+}
+.offers .offer-text, .offers .offer-date {
+  font-size: 18px;
+  font-family: var(--font-jost);
+  margin-top: 25px;
+  margin-bottom: 5px;
+}
+.offers .offer-date {
+  padding: 0px 8px;
+}
+.offers .offer-text a, .offers .offer-date a {
+  color: var(--black);
+}
+.offers .offer-tagline {
+  font-size: 30px;
+}
+.offers .offer-tagline span {
+  font-family: var(--font-cm);
+  font-weight: 500;
+}
+.offers .read {
+  margin-top: 20px;
+}
+.offers .read span {
+  font-family: var(--font-jost);
+  margin-top: 3px;
+  margin-left: 10px;
+}
+
+.following-img img {
+  width: 380px;
+  height: 380px;
+}
+.following-img .f-img {
+  width: 382px;
+  height: 380px;
+}
+
+footer {
+  background-color: #122223;
+}
+footer .footer-content {
+  text-align: center;
+  padding-top: 8%;
+}
+footer .footer-content .title img {
+  width: 280px;
+  margin: 0 auto;
+}
+footer .footer-content h3 {
+  color: var(--white-color);
+  font-size: 30px;
+  margin-top: 30px;
+}
+footer .footer-content input {
+  height: 70px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  padding-left: 35px;
+  padding-right: 25%;
+  font-size: 16px;
+  margin-top: 30px;
+}
+footer .footer-content1 {
+  display: flex;
+  justify-content: center;
+  color: var(--white-color);
+  font-family: var(--font);
+  font-size: 17px;
+  margin-top: 4%;
+}
+footer span {
+  padding: 0px 50px;
+}
+
+.f-border {
+  margin-top: 50px;
+  margin-bottom: 10px;
+  border: 1px solid;
+  --tw-border-opacity: 1;
+  border-color: rgb(71 71 71/var(--tw-border-opacity));
+}
+
+.f-content2 {
+  margin: 0 auto;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.f-content2 .fc1 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.f-content2 .fc1 .ditel-icon {
+  display: flex;
+}
+.f-content2 .fc1 .ditel-icon img {
+  padding: 0px 10px;
+}
+.f-content2 .fc1 h6 {
+  color: #b8c4c4;
+  font-family: var(--font);
+  font-size: 17px;
+  font-weight: 400;
+}
+.f-content2 .fc1 .f-icon i {
+  padding: 0px 10px;
+  font-size: 17px;
+  color: #b8c4c4;
+}
+.f-content2 .fc1 .f-icon i:hover {
+  color: var(--white-color);
+}
+
+/*# sourceMappingURL=style.css.map */

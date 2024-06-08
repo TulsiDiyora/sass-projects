@@ -1,0 +1,34 @@
+.comment-bg {
+  background-color: var(--box-color);
+}
+.comment-bg .t-box {
+  background-color: var(--white-color);
+  padding: 40px 60px;
+  margin-top: 80px;
+}
+.comment-bg .t-box svg {
+  display: block;
+  margin-bottom: 30px;
+}
+.comment-bg .t-box span {
+  font-size: 17px;
+  font-family: var(--font);
+}
+.comment-bg .t-border {
+  border-bottom: 1px solid lightgray;
+  margin: 30px 0px;
+}
+.comment-bg .t-profile {
+  align-items: center;
+}
+.comment-bg .t-profile img {
+  margin-right: 15px;
+}
+.comment-bg .t-profile h5 {
+  font-size: 17px;
+  font-family: var(--font);
+  font-weight: 500;
+}
+.comment-bg .t-profile span {
+  font-size: 15px;
+}/*# sourceMappingURL=testimonials.css.map */

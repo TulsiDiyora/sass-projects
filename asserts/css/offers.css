@@ -1,0 +1,61 @@
+.offers {
+  padding-top: 200px;
+}
+.offers .heading {
+  color: var(--black);
+}
+.offers .heading span {
+  font-family: var(--font-jost);
+}
+.offers .heading h1 {
+  font-size: 64px;
+  font-family: var(--font-cm);
+}
+.offers .book-now {
+  margin-top: 50px;
+}
+.offers .book-now span {
+  margin-left: 10px;
+  margin-top: 3px;
+}
+.offers .offers-item {
+  margin-left: -15px;
+  margin-right: -15px;
+}
+.offers .offers-img img {
+  width: 380px;
+  height: 487px;
+}
+.offers .offers-img-t {
+  margin-left: 50px;
+}
+.offers .offers-img-s {
+  margin-left: 20px;
+}
+.offers .offer-text, .offers .offer-date {
+  font-size: 18px;
+  font-family: var(--font-jost);
+  margin-top: 25px;
+  margin-bottom: 5px;
+}
+.offers .offer-date {
+  padding: 0px 8px;
+}
+.offers .offer-text a, .offers .offer-date a {
+  color: var(--black);
+}
+.offers .offer-tagline {
+  font-size: 30px;
+}
+.offers .offer-tagline span {
+  font-family: var(--font-cm);
+  font-weight: 500;
+}
+.offers .read {
+  margin-top: 20px;
+}
+.offers .read span {
+  font-family: var(--font-jost);
+  margin-top: 3px;
+  margin-left: 10px;
+}/*# sourceMappingURL=offers.css.map */

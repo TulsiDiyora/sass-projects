@@ -1,0 +1,34 @@
+.comment-bg{
+    background-color: var(--box-color);
+    .t-box{
+        background-color: var(--white-color);
+        padding: 40px 60px;
+        margin-top: 80px;
+        svg{
+            display: block;
+            margin-bottom: 30px;
+        }
+        span{
+            font-size: 17px;
+            font-family: var(--font);
+        }
+    }
+    .t-border{
+        border-bottom: 1px solid lightgray;
+        margin: 30px 0px;
+    }
+    .t-profile{
+    align-items: center;
+    img{
+        margin-right: 15px;
+    }
+         h5{
+             font-size: 17px;
+             font-family: var(--font);
+             font-weight: 500;
+         }
+         span{
+            font-size: 15px;
+         }
+    }
+}

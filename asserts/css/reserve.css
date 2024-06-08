@@ -1,0 +1,52 @@
+.reserve-bg {
+  background-image: url(../images/reserve-img/1.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top: 260px;
+  padding-bottom: 240px;
+  text-align: center;
+}
+.reserve-bg .reserve-content {
+  color: var(--white-color);
+}
+.reserve-bg h4 {
+  font-family: var(--font);
+  font-weight: 500;
+  padding-bottom: 10px;
+  text-transform: uppercase;
+}
+.reserve-bg h2 {
+  color: var(--white-color);
+  font-weight: 500;
+  font-size: 92px;
+  letter-spacing: 1.2px;
+  padding-bottom: 10px;
+  line-height: 1.1;
+}
+.reserve-bg .play-btn {
+  width: 80px;
+  height: 80px;
+  line-height: 83px;
+  background: rgba(18, 34, 35, 0.5);
+  -webkit-backdrop-filter: blur(5px);
+  backdrop-filter: blur(5px);
+  display: inline-block;
+  font-size: 20px;
+  font-family: var(--font);
+  color: var(--black-color);
+  border-radius: 50%;
+  font-weight: 500;
+  margin-top: 20px;
+  box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+  transition: all 0.5s linear;
+}
+.reserve-bg .play-btn:hover {
+  background-color: var(--black-color);
+  color: var(--white-color);
+}
+.reserve-bg p {
+  text-transform: uppercase;
+  font-family: var(--font);
+  margin-top: 20px;
+}/*# sourceMappingURL=reserve.css.map */

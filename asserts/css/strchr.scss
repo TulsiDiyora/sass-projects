@@ -1,0 +1,136 @@
+body {
+    font-family: var(--discription-font);
+    font-size: var(--fs);
+    font-weight: var(--fw);
+    line-height: var(--lh);
+    color: var(--black-color);
+}
+a{
+    text-decoration: none;
+}
+img {
+    display: block;
+    max-width: 100%;
+}
+ul,ol {
+    padding-left: 0;
+    list-style: none;
+}
+.container{
+    width: 1320px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: var(--gutter-width);
+    padding-right: var(--gutter-width);
+}
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: calc(-1*var(--gutter-width));
+    margin-right: calc(-1*var(--gutter-width));
+}
+.w-1 {
+    width: 8.3333%;
+}
+.w-2 {
+    width: 16.6666%;
+}
+.w-3 {
+    width: 25%
+}
+.w-4 {
+    width: 33.3333%
+}
+.w-5 {
+    width: 41.6666%
+}
+.w-6 {
+    width: 50%
+}
+.w-7 {
+    width: 58.3333%
+}
+.w-8 {
+    width: 66.6666%
+}
+.w-9 {
+    width: 75%
+}
+.w-10 {
+    width: 83.3333%
+}
+.w-11 {
+    width: 91.6666%
+}
+.w-12 {
+    width: 100%
+}
+.w-1,.w-2,.w-3,.w-4,.w-5,.w-6,.w-7,.w-8,.w-9,.w-10,.w-11,.w-12 {
+    padding-left: var(--gutter-width);
+    padding-right: var(--gutter-width);
+}
+.justify-content-start {
+    justify-content: flex-start;
+}
+.justify-content-center {
+    justify-content: center;
+}
+.justify-content-end {
+    justify-content: flex-end;
+}
+.justify-content-between {
+    justify-content: space-between;
+}
+.justify-content-aroundt {
+    justify-content: space-around;
+}
+.justify-content-evenly {
+    justify-content: space-evenly;
+}
+.align-content-start {
+    align-content: flex-start;
+}
+.align-content-center {
+    align-content: center;
+}
+.align-content-end {
+    align-content: flex-end;
+}
+.align-content-between {
+    align-content: space-between;
+}
+.align-content-around {
+    align-content: space-around;
+}
+.align-content-evevly {
+    align-content: space-evenly;
+}
+.align-item-start {
+    align-items: flex-start;
+}
+.align-item-end {
+    align-items: flex-end;
+}
+.align-item-center {
+    align-items: center;
+}
+.align-item-stretch {
+    align-items: stretch;
+}
+.align-item-baseline {
+    align-items: space-between;
+}
+.d-flex {
+    display: flex;
+    flex-wrap: wrap;
+}
+.pt-100 {
+    padding-top: 100px;
+}
+.pb-100 {
+    padding-bottom: 100px;
+}
+.py-100 {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}

@@ -1,0 +1,46 @@
+.banner-bg {
+  background-image: url("../images/bg-img/1.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top: 260px;
+  padding-bottom: 240px;
+  position: relative;
+}
+.banner-bg .banner-content {
+  text-align: center;
+}
+.banner-bg .banner-content h4 {
+  color: var(--white-color);
+  font-family: var(--font);
+  font-weight: 400;
+  font-size: 18px;
+}
+.banner-bg .banner-content h1 {
+  color: var(--white-color);
+  font-weight: 500;
+  font-size: 92px;
+  letter-spacing: 1.2px;
+  padding-bottom: 10px;
+}
+.banner-bg span {
+  color: var(--white-color);
+  font-size: 17px;
+  font-family: var(--font);
+  display: block;
+  margin-bottom: 40px;
+}
+.banner-bg .book-mark-btn {
+  padding: 16px 45px;
+  background-color: var(--primary-color);
+  display: inline-block;
+  font-size: 17px;
+  font-family: var(--font);
+  color: var(--black-color);
+  border-radius: 30px;
+  font-weight: 500;
+  transition: all 0.5s linear;
+}
+.banner-bg .book-mark-btn:hover {
+  background-color: var(--black-color);
+  color: var(--white-color);
+}/*# sourceMappingURL=banner.css.map */

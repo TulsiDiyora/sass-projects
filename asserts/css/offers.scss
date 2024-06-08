@@ -1,0 +1,62 @@
+.offers{
+    padding-top:200px;
+        .heading{
+            color: var(--black);
+                span{
+                    font-family: var(--font-jost);
+                }
+                h1{
+                    font-size: 64px;
+                    font-family: var(--font-cm);
+                }
+        }
+    .book-now{
+        margin-top: 50px;
+    }
+    .book-now span{
+        margin-left: 10px;
+        margin-top: 3px;
+    }  
+    .offers-item{
+        margin-left: -15px;
+        margin-right: -15px;
+    }   
+    .offers-img img{
+        width: 380px;
+        height: 487px;
+    }
+    .offers-img-t{
+        margin-left: 50px;
+    } 
+    .offers-img-s{
+        margin-left: 20px;
+    } 
+    .offer-text,.offer-date{
+        font-size: 18px;
+        font-family: var(--font-jost);
+        margin-top: 25px;
+        margin-bottom: 5px;
+    }
+    .offer-date{
+        padding: 0px 8px;
+    }
+    .offer-text a,.offer-date a{
+        color:  var(--black);
+    }
+    .offer-tagline{
+        font-size: 30px;
+    }
+    .offer-tagline span{
+        font-family: var(--font-cm);
+        font-weight: 500;
+    }
+    .read{
+        margin-top: 20px;
+
+    }
+    .read span{
+        font-family: var(--font-jost);
+        margin-top: 3px;
+        margin-left: 10px;
+    }
+}
